@@ -61,3 +61,5 @@ Many thanks to [@InnerPeace-Wu](https://github.com/InnerPeace-Wu) for a [discuss
 Gram.AI is currently heavily developing a wide number of AI models to be either open-sourced or released for free to the community, hence why we cannot guarantee complete support for this work.
 
 If any issues come up with the usage of this implementation however, or if you would like to contribute in any way, please feel free to send an e-mail to [iwasaki.kenta@velcron.io](iwasaki.kenta@velcron.io) or open a new GitHub issue on this repository.
+
+Link to alternate implementation :https://gist.github.com/kendricktan/9a776ec6322abaaf03cc9befd35508d4
